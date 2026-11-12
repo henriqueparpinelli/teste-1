@@ -2,47 +2,31 @@
   "alunos": [
     {
       "id": 1,
-      "nome": "Henrique da Motinha",
-      "cpf": "123.456.789-09",
-      "login": "henrique@gmail.com",
+      "nome": "Henrique de almeida",
+      "cpf": "123.456.789-08",
+      "login": "nrique@gmail.com",
       "cidade": "Foz do Iguaçu",
       "telefone": "(45) 98888-0001",
       "cep": "85851-000"
-    },
-    {
-      "id": 2,
-      "nome": "vamo",
-      "cpf": "000.000.000-00",
-      "login": "foz@gmail.com",
-      "cidade": "foz",
-      "telefone": "(00) 00000-0000",
-      "cep": "00000-000"
     }
   ],
   "treinadores": [
     {
-      "id": 1,
-      "cdedf": "030000-G/PR",
-      "nome": "Jair",
-      "login": "jair@hmdfesports.com",
-      "especialidade": "Basquete",
-      "telefone": "(45) 99999-0001"
+      "id": 2,
+      "cdedf": "00000000000",
+      "nome": "mateus",
+      "login": "treinatongo@gmail.com",
+      "especialidade": "jiu",
+      "telefone": "(09) 99999-9999"
     }
   ],
   "modalidades": [
     {
       "id": 1,
-      "esporte": "Basquete",
+      "esporte": "jiu",
       "turno": "noite",
       "turma": "2A",
       "agenda": "quarta-feira"
-    },
-    {
-      "id": 3,
-      "esporte": "volei",
-      "turno": "manhã",
-      "turma": "4B",
-      "agenda": "terça-feira"
     }
   ],
   "matriculas": [
@@ -51,7 +35,7 @@
       "aluno_id": 1,
       "modalidade_id": 1,
       "modalidade_turno": "noite",
-      "modalidade_esporte": "Basquete"
+      "modalidade_esporte": "jiu"
     }
   ]
 }
